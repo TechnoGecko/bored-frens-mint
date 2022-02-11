@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div className="bfm__header-container">
       <div className="bfm__header-upper-container">
-        <img src="/media/bfb_logo.png"></img>
+        <img src="/media/bfb_logo.png" alt="A red bored fren NFT"></img>
         <h2>Presents:</h2>
       </div>
       <div className="bfm__header-lower-container">

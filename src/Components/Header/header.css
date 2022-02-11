@@ -174,7 +174,6 @@
   }
   .bfm__header-upper-container h2 {
     transform: translate(0px, 0px);
-    margin-top: 0;
     align-self: center;
     font-size: 28px;
   }
@@ -194,7 +193,5 @@
   }
   .bfm__header-upper-container h2 {
     font-size: 24px;
-  }
-  .bfm__header-container {
   }
 }
