@@ -116,7 +116,7 @@
   }
 }
 
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 640px) {
   .bfm__fren-container {
     max-width: 175px;
     min-width: 100px;

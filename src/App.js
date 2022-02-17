@@ -17,6 +17,7 @@ function App() {
       <Header />
       <About />
       <Affiliates />
+      <Utility />
     </div>
   );
 }

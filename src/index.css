@@ -7,7 +7,7 @@ body {
   --font-family-title: "railroad-gothic-atf", sans-serif;
   --font-family-paragraph: "gopher", sans-serif;
   --font-family-accent: kansasnew, serif;
-  --font-family-accent2: rad, sans-serif;
+  --font-family-rad: rad, sans-serif;
 }
 
 .bfm__link-primary {
